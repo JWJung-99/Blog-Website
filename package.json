@@ -1,0 +1,23 @@
+{
+  "name": "myblogwebsite",
+  "version": "1.0.0",
+  "description": "Blog Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jinwook Jung",
+  "license": "ISC",
+  "engines": {
+    "node": "16.14.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.0.2",
+    "express": "^4.17.3",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.3.3",
+    "n_": "^3.0.1",
+    "nodemon": "^2.0.16"
+  }
+}
